@@ -68,6 +68,8 @@ AI & RAG Integration – embedding intelligence into everyday tools and experien
 
 ### 🧠 AI & RAG Development
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![xAI](https://img.shields.io/badge/xAI-1754A1?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pinecone](https://img.shields.io/badge/Pinecone-28B0E0?style=for-the-badge&logo=pinecone&logoColor=white)
