@@ -55,6 +55,10 @@ AI & RAG Integration – embedding intelligence into everyday tools and experien
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
+### 🤖 Robotic Process Automation & Workflow Orchestration
+![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
+![SS&C Blue Prism](https://img.shields.io/badge/Blue%20Prism-072F5F?style=for-the-badge&logo=blueprism&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white)
 
 <!--
 **emeraldemperaur/emeraldemperaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
